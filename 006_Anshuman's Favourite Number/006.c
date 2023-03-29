@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int isValid(long long N)
+int isValid(int N)
 	{
 
 	//ternary operator= condition?true statement:false statement;
